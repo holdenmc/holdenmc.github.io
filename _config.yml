@@ -1,0 +1,9 @@
+name: Hi, I'm Holden
+description: Personal blog about coding and sports
+url: "https://holdenmc.github.io/"
+
+exclude: [Gemfile, Gemfile.lock]
+
+theme: merlot
+
+
